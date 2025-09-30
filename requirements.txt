@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai
+python-dotenv
+gitpython
+faiss-cpu
+sentence-transformers
+pypdf
+nltk
